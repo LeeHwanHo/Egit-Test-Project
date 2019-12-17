@@ -12,6 +12,4 @@ public class Main {
 		
 		test.SetNum(100);
 	}
-
-	
 }
