@@ -12,4 +12,8 @@ public class Main {
 		
 		test.SetNum(100);
 	}
+	
+	public void wowwow() {
+		System.out.println("wowwow");
+	}
 }
