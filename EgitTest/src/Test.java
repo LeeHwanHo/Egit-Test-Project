@@ -21,4 +21,9 @@ class Test {
 		this.comment = comment;
 		System.out.println(this.comment);
 	}
+	
+	//Push를 위한 코드 추가
+	public void SetNum(int num) {
+		this.num = num;
+	}
 }
