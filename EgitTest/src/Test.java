@@ -26,4 +26,6 @@ class Test {
 	public void SetNum(int num) {
 		this.num = num;
 	}
+	
+	// Pull
 }
