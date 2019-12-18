@@ -19,6 +19,7 @@ public class Main {
 	
 	public void MainFunctionAdd() {
 		int test;
-		String test;
+		//변수명이 겹쳐 수정함.
+		String sTest;
 	}
 }
