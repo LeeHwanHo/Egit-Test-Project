@@ -27,8 +27,5 @@ class Test {
 		this.num = num;
 	}
 	
-	//Push Test
-	public int GetNum() {
-		return num;
-	}
+	//revert 전
 }
