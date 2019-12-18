@@ -16,4 +16,9 @@ public class Main {
 	public void wowwow() {
 		System.out.println("wowwow");
 	}
+	
+	public void MainFunctionAdd() {
+		int test;
+		String test;
+	}
 }
