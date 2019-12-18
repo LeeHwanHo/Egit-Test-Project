@@ -26,4 +26,9 @@ class Test {
 	public void SetNum(int num) {
 		this.num = num;
 	}
+	
+	//Push Test
+	public int GetNum() {
+		return num;
+	}
 }
